@@ -29,7 +29,7 @@ This project showcases an **interactive Hospital Emergency Room (ER) dashboard**
 * Translating raw data into meaningful business insights
 
 -----
-Thankyou
+![image alt](https://github.com/abhidubey05/Hospital-Emergency-Room-Dashboard-/blob/868b37122f4a23d941c3151fd681698ea44f8d41/Final%20Dashboard.png)
 
 
 
